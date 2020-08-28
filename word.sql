@@ -1,6 +1,6 @@
 CREATE DATABASE 'world';
 
-CREATE TABLE 'personnes'(
+CREATE TABLE personnes(
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   nom VARCHAR,
   prenom VARCHAR,
